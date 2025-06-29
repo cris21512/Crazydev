@@ -156,7 +156,7 @@ const page = () => {
         <div className="fc-col-lg">
           <div className="footer-text">
             <div className="footer-text-content">
-              <p className="sm caps">Developed by Codegrid</p>
+              <p className="sm caps">Developed by MasterDev</p>
             </div>
           </div>
         </div>

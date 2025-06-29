@@ -369,7 +369,7 @@ const Menu = ({ onMenuStateChange }) => {
                   navigateTo("/");
                 }}
               >
-                <h1>index</h1>
+                <h1>index -</h1>
               </a>
             </div>
             <div className="revealer">
@@ -428,22 +428,17 @@ const Menu = ({ onMenuStateChange }) => {
                 <div className="revealer">
                   <a
                     className="sm caps mono"
-                    href="https://www.youtube.com/@codegrid"
+                    href="https://www.facebook.com/profile.php?id=61577223464376"
                   >
-                    YouTube
+                    Facebook
                   </a>
                 </div>
                 <div className="revealer">
                   <a
                     className="sm caps mono"
-                    href="https://www.instagram.com/codegridweb/"
+                    href="https://www.instagram.com/master._dev/"
                   >
                     Instagram
-                  </a>
-                </div>
-                <div className="revealer">
-                  <a className="sm caps mono" href="https://x.com/codegridweb">
-                    X
                   </a>
                 </div>
               </div>

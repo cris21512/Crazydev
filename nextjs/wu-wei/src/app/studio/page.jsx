@@ -103,7 +103,7 @@ const page = () => {
           <div className="studio-header-copy">
             <Copy>
               <h2>
-                At Wu Wei Studio, we approach every project with quiet focus.
+                At MasterDev Studio, we approach every project with quiet focus.
                 Through close collaboration and considered process, we build
                 digital work that reflects both the needs of our clients and the
                 values of our practice.

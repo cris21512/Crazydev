@@ -105,8 +105,8 @@ const page = () => {
       <div className="contact-copy">
         <div className="contact-copy-bio">
           <Copy delay={1}>
-            <p className="caps sm">Wu Wei Studios</p>
-            <p className="caps sm">Toronto / Copenhagen</p>
+            <p className="caps sm">MasterDev Studios</p>
+            <p className="caps sm">Guatemala</p>
           </Copy>
         </div>
 
@@ -122,17 +122,15 @@ const page = () => {
         <div className="contact-copy-addresses">
           <div className="contact-address">
             <Copy delay={1.3}>
-              <p className="caps sm">Toronto</p>
-              <p className="caps sm">Studio 302, Richmond St W</p>
-              <p className="caps sm">M5V 3A8</p>
+              <p className="caps sm">My contact:</p>
+              <p className="caps sm">cristopherfm21.5@gmail.com</p>
             </Copy>
           </div>
 
           <div className="contact-address">
             <Copy delay={1.45}>
-              <p className="caps sm">Copenhagen</p>
-              <p className="caps sm">Unit 02 Refshalevej 167A</p>
-              <p className="caps sm">1432 KØBENHAVN K</p>
+              <p className="caps sm">whatever you imagine...</p>
+              <p className="caps sm">I program it</p>
             </Copy>
           </div>
         </div>

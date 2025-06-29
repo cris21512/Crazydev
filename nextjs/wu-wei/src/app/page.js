@@ -164,7 +164,7 @@ export default function Home() {
       )}
 
       <section className="hero">
-        <DynamicBackground logoPath="/images/logos/logo.png" />
+        <DynamicBackground logoPath="/images/logos/logo_light.png" />
 
         <div className="hero-content">
           <div className="hero-header">

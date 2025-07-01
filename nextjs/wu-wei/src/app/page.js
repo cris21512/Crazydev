@@ -187,7 +187,7 @@ export default function Home() {
             <div className="hero-footer-col-sm">
               <div className="hero-tags">
                 <Copy animateOnScroll={false} delay={showPreloader ? 6.2 : 0.9}>
-                  <p className="sm caps mono">Web Systems</p>
+                  <p className="sm caps mono">Web systems</p>
                   <p className="sm caps mono">Interface Design</p>
                   <p className="sm caps mono">Creative Development</p>
                   <p className="sm caps mono">End to End Delivery</p>

@@ -54,7 +54,7 @@ const Footer = () => {
             </div>
           </div>
           <div className="footer-social">
-            <a href="mailto:cristopherfm21.5@gmail.com">
+            <a href="mailto:cristopherfm21.5@gmail.com" >
               <div className="footer-text">
                 <div className="footer-text-content">
                   <h2>Email</h2>
@@ -63,7 +63,7 @@ const Footer = () => {
             </a>
           </div>
           <div className="footer-social">
-            <a href="https://www.linkedin.com/in/cristopherfuentes/">
+            <a href="https://www.linkedin.com/in/cristopherfuentes/" target='_blank' rel='noopener noreferrer'>
               <div className="footer-text">
                 <div className="footer-text-content">
                   <h2>LinkedIn</h2>
@@ -72,7 +72,7 @@ const Footer = () => {
             </a>
           </div>
           <div className="footer-social">
-            <a href="https://www.instagram.com/master._dev/">
+            <a href="https://www.instagram.com/master._dev/" target='_blank' rel='noopener noreferrer'>
               <div className="footer-text">
                 <div className="footer-text-content">
                   <h2>Instagram</h2>
@@ -81,7 +81,7 @@ const Footer = () => {
             </a>
           </div>
           <div className="footer-social">
-            <a href="https://www.facebook.com/profile.php?id=61577223464376">
+            <a href="https://www.facebook.com/profile.php?id=61577223464376" target='_blank' rel='noopener noreferrer'>
               <div className="footer-text">
                 <div className="footer-text-content">
                   <h2>Facebook</h2>

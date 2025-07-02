@@ -429,6 +429,8 @@ const Menu = ({ onMenuStateChange }) => {
                   <a
                     className="sm caps mono"
                     href="https://www.facebook.com/profile.php?id=61577223464376"
+                    target='_blank' 
+                    rel='noopener noreferrer'
                   >
                     Facebook
                   </a>
@@ -437,6 +439,8 @@ const Menu = ({ onMenuStateChange }) => {
                   <a
                     className="sm caps mono"
                     href="https://www.instagram.com/master._dev/"
+                    target='_blank' 
+                    rel='noopener noreferrer'
                   >
                     Instagram
                   </a>

@@ -1,2 +1,2 @@
 # Crazydev
-nose
+# portfolio for MasterDev Studio

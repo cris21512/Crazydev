@@ -113,7 +113,6 @@ const page = () => {
         <div className="contact-copy-tags">
           <Copy delay={1.15}>
             <p className="caps sm">Web Systems</p>
-            <p className="caps sm">Interface Design</p>
             <p className="caps sm">Creative Development</p>
             <p className="caps sm">End To End Delivery</p>
           </Copy>
